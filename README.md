@@ -1,1 +1,1 @@
-# rapid-crud
+Rapid React/Vue CRUD фронтенд скафолдинг
